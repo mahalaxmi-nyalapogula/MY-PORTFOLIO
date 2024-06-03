@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <header class = "header">
+        <a href ="#" class ="logo">MAHALAXMI NYALAPOGULA.</a>
+            <nav class "navbar"></nav>
+                <a href= "#" class="active"> Home </a>
+                <a href= "#"> About</a>
+                <a href= "#"> Services</a>
+                <a href= "#"> Portfolio</a>
+                <a href= "#"> Contact</a>
+    </nav>
+    </header>
+    <section class="Home">
+        <div class="Home-content">
+            <h1> Hi, I'm Mahalaxmi Nyalapogula</h1>
+            <h3>FRONTEND DEVELOPER</h3>
+            <P>As a recent graduate of a comprehensive frontend development course, I am delighted to begin my professional path in the web development industry. Throughout my course, I developed a strong foundation in HTML, CSS, and JavaScript, as well as hands-on expertise with current frameworks like React and Angular. My training focused on developing responsive and user-friendly online apps, optimizing website performance, and adopting accessibility and SEO best practices. With a good eye for design and a desire to create seamless user experiences, I am excited to utilize my talents in a dynamic and demanding atmosphere where I can contribute to unique projects while also growing as a frontend developer.
+            </P>
+            <div class ="btn-box">
+                <a>Hire Me </a> 
+                <a>Let's Talk</a>
+            </div>
+        </div>
+        <div class="home-sci">
+            <a href="#"><i class='bx bxl-linkedin'></i></a>
+            <a href="#"><i class='bx bxl-github'></i></a>
+
+
+        </div>
+        <span class="home-imgHover"></span>
+    </section>
+    </body>
+</html>
